@@ -20,4 +20,23 @@ This dataset has daily level information on the number of affected cases, deaths
 </p>
  
 The following queries using python.
--> World wide analysis of COVID-19, which shows the total number of deaths,
+ - World wide analysis of COVID-19, which shows the total number of deaths, Confirmed and Recovered cases
+ <p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/44143282/81507574-55e0c900-92cc-11ea-8f0b-c06d4194be40.png")
+</p>
+ - Country wise analysis , whatever the country name we give in the text box,it shows its analysis.In this case, it shows US data.
+ <p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/44143282/81507653-d69fc500-92cc-11ea-9e24-62fe6491fe91.png">
+    </p>
+- Top 10 countries affected by COVID-19
+   <p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/44143282/81507729-431ac400-92cd-11ea-98e5-3e64905e0591.png">
+    </p>
+- Least affected Countries
+  <p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/44143282/81507842-0ac7b580-92ce-11ea-9188-f14f5bc6073d.png">
+    </p>
+- State wise analysis - It shows the state wise analysis for whatever country you want.
+  <p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/44143282/81507936-a78a5300-92ce-11ea-888e-e578869ba708.png">
+    </p>
