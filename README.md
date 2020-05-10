@@ -19,12 +19,12 @@ This dataset has daily level information on the number of affected cases, deaths
   <img width="460" height="300" src="https://user-images.githubusercontent.com/44143282/81507424-5af14880-92cb-11ea-9a35-b816d4776657.png">
 </p>
  
-The following queries using python.
- - World wide analysis of COVID-19, which shows the total number of deaths, Confirmed and Recovered cases
+The following queries were implemented using python.
+- World wide analysis of COVID-19, which shows the total number of deaths, Confirmed and Recovered cases
  <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/44143282/81507574-55e0c900-92cc-11ea-8f0b-c06d4194be40.png")
 </p>
- - Country wise analysis , whatever the country name we give in the text box,it shows its analysis.In this case, it shows US data.
+- Country wise analysis , whatever the country name we give in the text box,it shows its analysis.In this case, it shows US data.
  <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/44143282/81507653-d69fc500-92cc-11ea-9e24-62fe6491fe91.png">
     </p>
