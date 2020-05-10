@@ -3,7 +3,8 @@ GUI Application to view the analysis of Corona data
 In this project, i have analysed COVID-19 using python and created an GUI Application to view the results of the analysis.
 # Dataset
 The Dataset was acquired from Kaggle.
-https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
+https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset .
+
 This dataset has daily level information on the number of affected cases, deaths and recovery from 2019 novel coronavirus.This is a time series data and so the number of cases on any given day is the cumulative number.The data is available from 22 Jan, 2020.The following are the columns of the dataset.
 - Sno - Serial number
 - ObservationDate - Date of the observation in MM/DD/YYYY
@@ -29,6 +30,7 @@ The following queries were implemented using python.
  <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/44143282/81507653-d69fc500-92cc-11ea-9e24-62fe6491fe91.png">
     </p>
+    
 - Top 10 countries affected by COVID-19
    <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/44143282/81507729-431ac400-92cd-11ea-98e5-3e64905e0591.png">
