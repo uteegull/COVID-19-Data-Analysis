@@ -33,6 +33,7 @@ The following queries were implemented using python.
    <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/44143282/81507729-431ac400-92cd-11ea-98e5-3e64905e0591.png">
     </p>
+    
 - Least affected Countries
   <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/44143282/81507842-0ac7b580-92ce-11ea-9188-f14f5bc6073d.png">
