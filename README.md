@@ -14,7 +14,8 @@ This dataset has daily level information on the number of affected cases, deaths
 - Deaths - Cumulative number of of deaths till that date
 - Recovered - Cumulative number of recovered cases till that date
 # Application
-It is python Tkinter GUI Application.
-![image](https://user-images.githubusercontent.com/44143282/81507424-5af14880-92cb-11ea-9a35-b816d4776657.png)
+   It is python Tkinter GUI Application.
+
+  ![image](https://user-images.githubusercontent.com/44143282/81507424-5af14880-92cb-11ea-9a35-b816d4776657.png)
 The following queries using python.
 -> World wide analysis of COVID-19, which shows the total number of deaths,
